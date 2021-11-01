@@ -1,2 +1,0 @@
-# manmedia
-manmedia projesi
